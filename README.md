@@ -206,7 +206,7 @@ ros2 run demo_nodes_cpp listener
 
 #### 통신 토폴리지 구분
 
-#### **1. <Mash Topology>**
+#### **1. Mash Topology**
 
 <img src="image_mash.png">
 
@@ -284,7 +284,7 @@ ros2 run demo_nodes_cpp listener
 </CycloneDDS>
 ```
 
-#### **2. <Star Topology>**
+#### **2. Star Topology**
 
 <img src="image_star.png">
 
