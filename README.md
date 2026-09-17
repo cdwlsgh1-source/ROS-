@@ -436,7 +436,6 @@ Cyclone DDS 전환 후 실제 안정화 여부를 정량적으로 확인하기 �
 **Log 수집 프로그램**: `ros2_net_diag_v2.sh`
 
 <aside>
-<img src="/icons/download_blue.svg" alt="/icons/download_blue.svg" width="40px" />
 
 **Log 수집 프로그램**
 
