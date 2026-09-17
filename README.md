@@ -208,7 +208,8 @@ ros2 run demo_nodes_cpp listener
 
 #### **1. Mash Topology**
 
-<img src="image_mash.png">
+<img width="1332" height="628" alt="image_mash" src="https://github.com/user-attachments/assets/bedd6857-be55-4722-8de7-4c68a324b1d4" />
+
 
 **pinky 1 로봇 쪽** (`~/cyclonedds_robot.xml`):
 
@@ -286,7 +287,8 @@ ros2 run demo_nodes_cpp listener
 
 #### **2. Star Topology**
 
-<img src="image_star.png">
+<img width="1332" height="666" alt="image_star" src="https://github.com/user-attachments/assets/b332d10a-2ae4-4d3d-8914-c6cfdaf9365a" />
+
 
 **pinky 1 로봇 쪽** (`~/cyclonedds_robot.xml`) 
 
