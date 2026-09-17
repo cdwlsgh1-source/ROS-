@@ -1,4 +1,4 @@
-<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-2" src="https://github.com/user-attachments/assets/78c24ec7-ed35-42c5-bf7f-d5013f0aaf88" /># ROS2 로봇 - 관제 PC 간 토픽 통신 불안정 트러블슈팅 레포트
+# ROS2 로봇 - 관제 PC 간 토픽 통신 불안정 트러블슈팅 레포트
 
 > 작성일: 2026-09-17
 상태: ✅ 해결 (Cyclone DDS 전환으로 통신 안정화 확인)
@@ -469,8 +469,10 @@ ip a
 `state UP`이고 `inet 192.168.45.x`가 붙어있는 인터페이스가 정답 (보통 `wlan0`, 노트북 내장 카드는 `wlp2s0`, `wlx...` 등으로 표기).
 
 **로그 분석 결과**
-![Uploading ROS2_네트워크_진단_대시보드-1.png…]()
-![Uploading ROS2_네트워크_진단_대시보드-2.png…]()
+<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-1" src="https://github.com/user-attachments/assets/cb7c2b8b-87c7-4c1d-ada3-33d587e49700" />
+<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-2" src="https://github.com/user-attachments/assets/df417103-66de-4eff-b4b7-d948599e3270" />
+
+
 | 항목 | FastDDS + 공유기 | Cyclone DDS + 고정IP + Star |
 | --- | --- | --- |
 | 측정 로그 | pinky20·pinky22, 짧은(1.5~1.7분) + 20분 | pinky1·pinky2, 짧은(2.4분) + 11.5분 |
