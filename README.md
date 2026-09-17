@@ -208,7 +208,7 @@ ros2 run demo_nodes_cpp listener
 
 #### **1. <Mash Topology>**
 
-!image.png
+!image_mash.png
 
 **pinky 1 로봇 쪽** (`~/cyclonedds_robot.xml`):
 
@@ -284,9 +284,9 @@ ros2 run demo_nodes_cpp listener
 </CycloneDDS>
 ```
 
-#### **2. <Start Topology>**
+#### **2. <Star Topology>**
 
-!image.png
+!image_star.png
 
 **pinky 1 로봇 쪽** (`~/cyclonedds_robot.xml`) 
 
