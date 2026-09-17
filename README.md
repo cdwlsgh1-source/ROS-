@@ -471,8 +471,9 @@ ip a
 `state UP`이고 `inet 192.168.45.x`가 붙어있는 인터페이스가 정답 (보통 `wlan0`, 노트북 내장 카드는 `wlp2s0`, `wlx...` 등으로 표기).
 
 **로그 분석 결과**
-<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-1" src="https://github.com/user-attachments/assets/cb7c2b8b-87c7-4c1d-ada3-33d587e49700" />
-<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-2" src="https://github.com/user-attachments/assets/df417103-66de-4eff-b4b7-d948599e3270" />
+<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-1" src="https://github.com/user-attachments/assets/65c7b686-d6a7-48f3-b27f-4543a5e93bb4" />
+<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-2" src="https://github.com/user-attachments/assets/f3188bf4-9916-4902-bfa7-2225404151cf" />
+<img width="1275" height="1650" alt="ROS2_네트워크_진단_대시보드-3" src="https://github.com/user-attachments/assets/76046109-a517-4b7d-b28f-ea91fb1ccfba" />
 
 
 | 항목 | FastDDS + 공유기 | Cyclone DDS + 고정IP + Star |
