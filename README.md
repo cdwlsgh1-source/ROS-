@@ -1,10 +1,3 @@
-<aside>
-<img src="/icons/list_green.svg" alt="/icons/list_green.svg" width="40px" />
-
-**INDEX**
-
-</aside>
-
 # ROS2 로봇 - 관제 PC 간 토픽 통신 불안정 트러블슈팅 레포트
 
 > 작성일: 2026-09-17
