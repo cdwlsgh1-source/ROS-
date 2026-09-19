@@ -351,7 +351,8 @@ ros2 run demo_nodes_cpp listener
     <Discovery>
       <ParticipantIndex>auto</ParticipantIndex>
       <Peers>
-        <Peer Address="192.168.45.22"/>   <!-- 자기 자신 -->
+        <Peer Address="192.168.45.20"/>   <ROBOT 1>
+        <Peer Address="192.168.45.22"/>   <ROBOT 2>
         <Peer Address="192.168.45.50"/>   <!-- 관제PC -->
       </Peers>
     </Discovery>
